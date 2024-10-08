@@ -1,0 +1,17 @@
+{
+    "language": "uk-UA",
+    "use_vosk": false,
+    "preferred_recognition": "google",
+    "vosk_models": {
+        "uk-UA": "",
+        "en-US": "",
+        "ru-RU": ""
+    },
+    "enable_tts": true,
+    "use_ai": true,
+    "ai_model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+    "flux_model": "black-forest-labs/FLUX.1-schnell",
+    "text_generation_model": "groq",
+    "hf_api_key": "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",
+    "groq_api_token": "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"
+}
